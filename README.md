@@ -7,9 +7,12 @@ cd game
 python3 main.py
 ```
 
-O en caso de querer correr el programa de gráficas:
+# APP Project
 
 ```sh
+git clone
 cd app
+source env-app/Scripts/activate
+pip3 install -r requirements.txt
 python3 main.py
 ```
